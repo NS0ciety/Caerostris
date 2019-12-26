@@ -3,9 +3,8 @@
 
 I'll start with twitter and see how it ends...
 
-Ref:
-https://github.com/jonbakerfish/TweetScraper
-https://github.com/yall/scrapy-twitter
+
+[Wiki](https://github.com/NS0ciety/Caerostris/wiki/Notes)
 
 
 About the name:
